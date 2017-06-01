@@ -1,6 +1,7 @@
 {
   "name": "amcharts-pie",
   "homepage": "https://github.com/Reached/amcharts-pie",
+  "version": "1.0.0",
   "authors": [
     "Casper Sørensen <cs@komunikado.dk>"
   ],
