@@ -1,0 +1,21 @@
+{
+  "name": "amcharts-pie",
+  "homepage": "https://github.com/Reached/amcharts-pie",
+  "authors": [
+    "Casper Sørensen <cs@komunikado.dk>"
+  ],
+  "description": "Making amcharts pie available through bower",
+  "main": "pie.js",
+  "keywords": [
+    "amcharts",
+    "pie"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
