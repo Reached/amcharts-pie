@@ -3,7 +3,7 @@
   "homepage": "https://github.com/Reached/amcharts-pie",
   "version": "1.0.0",
   "authors": [
-    "Casper Sørensen <cs@komunikado.dk>"
+    "Casper Sørensen <casper.aarby.sorensen@gmail.com>"
   ],
   "description": "Making amcharts pie available through bower",
   "main": "pie.js",
